@@ -1,5 +1,8 @@
 [![Build status](https://dev.azure.com/APS-SD-Stewards/APS-SD/_apis/build/status/proscrumdev.battleship-java-CI)](https://dev.azure.com/APS-SD-Stewards/APS-SD/_build/latest?definitionId=15)
 
+# Credit
+This is the battleship game from the Scrum.org Professional Scrum Developer course that I took with John Riley. It was purposely incomplete and buggy.
+
 # Battleship Java
 
 A simple game of Battleship, written in Java. The purpose of this repository is to serve as an entry point into coding exercises and it was especially created for scrum.orgs Applying Professional Scrum for Software Development course (www.scrum.org/apssd). The code in this repository is unfinished by design.

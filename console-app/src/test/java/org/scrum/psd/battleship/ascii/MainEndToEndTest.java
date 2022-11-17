@@ -10,7 +10,8 @@ import java.util.NoSuchElementException;
 
 import static org.junit.contrib.java.lang.system.TextFromStandardInputStream.emptyStandardInputStream;
 
-public class MainEndToEndTest {
+public class
+MainEndToEndTest {
     @ClassRule
     public static final SystemOutRule systemOutRule = new SystemOutRule().enableLog();
     @ClassRule
